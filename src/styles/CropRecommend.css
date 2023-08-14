@@ -1,0 +1,45 @@
+.crop-recommend {
+    padding: 30px;
+    background-color: #777878;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 5% auto;
+  }
+  
+  .submit-btn {
+    /* background-color: #2e302e; */
+    border-color: #fbfefc;
+    width: 200px;
+    padding: 10px;
+    font-size: 18px;
+  }
+  .submit-btn:hover{    
+    background-color: green;
+  }
+  .result-card {
+    background-color: #343a40;
+    color: #fff;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .result-card .card-body {
+    padding: 20px;
+  }
+  
+  .footer{
+  margin: 8% 0 0 0;
+  }
+
+  @media (max-width: 768px) {
+    .crop-recommend {
+      padding: 20px;
+    }
+  
+    .submit-btn {
+      width: 100%;
+    }
+  }
+  

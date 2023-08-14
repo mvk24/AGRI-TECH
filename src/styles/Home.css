@@ -1,0 +1,117 @@
+/* Home */
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  border-radius: 5px;
+  bottom: 30px;
+}
+
+.carousel-caption h3 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.carousel-caption p {
+  font-size: 16px;
+  color: #fff;
+  margin: 0;
+}
+
+.carousel-indicators li {
+  background-color: #28a745;
+}
+
+.carousel-indicators .active {
+  background-color: #218838;
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 600px;
+}
+
+
+.heading{
+  text-align: center;
+  padding: 50px 0;
+}
+.head{
+  font-size: 3rem;
+  font-weight: 800;
+}
+
+/*   About  */
+
+.about-us {
+  padding: 50px 0;
+  background-color: #f9f9f9;
+}
+
+.about-us h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.about-us p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.crop-details {
+  margin-top: 40px;
+}
+
+.card {
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 16px;
+}
+
+.btn-primary {
+  margin-top: 10px;
+}
+
+/* Services */
+
+.service-card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.service-card .card-img-top {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.service-card .card-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.service-card .card-text {
+  font-size: 16px;
+  margin-bottom: 0%;
+}
+
+.service-card .btn-primary {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.service-card .btn-primary:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}

@@ -10,7 +10,7 @@ const Home = () => {
         <Carousel.Item>
           <img className="d-block w-100" src="/images/b1.jpg" alt="First slide" />
           <Carousel.Caption className="carousel-caption">
-            <h3>Welcome to Our Agri-Tech Platform</h3>
+            <h3>Welcome to Agri-Tech</h3>
             <p>Revolutionizing agriculture with technology</p>
           </Carousel.Caption>
         </Carousel.Item>

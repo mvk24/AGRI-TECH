@@ -2,7 +2,7 @@
 
 Developed as a part of an academic assignement using following technologies and languages.
 
-Front End: React, Bootstrap <br>
+Front End: React, Bootstrap <br/>
 Back End: Flask, Machine Learning, Python
 
 

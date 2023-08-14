@@ -8,9 +8,7 @@ This application is designed to provide tailored crop recommendations for differ
 # Front End: React, Bootstrap <br/>
 # Back End: Flask, Machine Learning, Python
 
-Future Enhancements:
-
-Fertlizer Recommendation
+Future Enhancements:  &nbsp; &nbsp; Fertlizer Recommendation
 
 
 
@@ -18,7 +16,7 @@ Fertlizer Recommendation
 
 Note: It contains only Front End part as the backend is in progress.
 
-Installation Guide:
+# Installation Guide:
 <br/>
 Download and Install reqired packages.
 

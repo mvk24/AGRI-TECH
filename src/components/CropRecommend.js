@@ -38,7 +38,7 @@ const CropRecommend = () => {
   };
 
   return (
-    <div>
+    <div className='back'>
     <Container className="crop-recommend">
       <h1 className="text-dark text-center">Crop Recommendation</h1><br/>
       <Form onSubmit={handleSubmit}>

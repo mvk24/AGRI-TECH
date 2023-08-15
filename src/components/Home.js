@@ -118,7 +118,10 @@ const Home = () => {
                 <Card.Text>
                   Receive optimal fertilizer recommendations to enhance crop yield and health.
                 </Card.Text>
-                <Button variant="primary">Try It</Button>
+                <Button variant="primary" onClick={(e) => {
+            e.preventDefault();
+            window.location.href='/fertilizer';
+            }}>Try It</Button>
               </Card.Body>
             </Card>
           </Col>

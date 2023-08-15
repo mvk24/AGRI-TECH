@@ -1,6 +1,9 @@
+.back{
+  /* background-color: rgb(203, 249, 135); */
+}
 .crop-recommend {
     padding: 30px;
-    background-color: #777878;
+    background-color: #868787;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin: 5% auto;

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AGRI-TECH/static/css/main.4589734d.css",
+    "main.js": "/AGRI-TECH/static/js/main.29930c86.js",
+    "index.html": "/AGRI-TECH/index.html",
+    "main.4589734d.css.map": "/AGRI-TECH/static/css/main.4589734d.css.map",
+    "main.29930c86.js.map": "/AGRI-TECH/static/js/main.29930c86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4589734d.css",
+    "static/js/main.29930c86.js"
+  ]
+}

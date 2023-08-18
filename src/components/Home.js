@@ -91,7 +91,7 @@ const Home = () => {
 
 {/* ------------------------------Services------------------------------------ */}
 <br/>
-  <section className="services" id="ser">
+  <section className="services pt-5" id="ser">
     <div className="container">
         <div className='head text-center'>Our Services</div><br/>
         <Row>
@@ -128,7 +128,6 @@ const Home = () => {
         </Row>
         </div>
       </section>
-      <br/>
 
 
 

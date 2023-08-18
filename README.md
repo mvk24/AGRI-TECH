@@ -40,9 +40,7 @@ Note: It contains only Front End part as the backend is in progress.
 
 <br/>
 
-Download and Install req
-
-ired packages.
+Download and Install required packages.
 
 
 To run the server:

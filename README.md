@@ -31,23 +31,17 @@ Future Enhancements:  &nbsp; &nbsp; Fertlizer Recommendation
 
 ![8](https://github.com/mvk24/AGRI-TECH/assets/127925161/a081d3c8-c49c-4c0e-9e78-666cb77b6b6d)
 
+![10](https://github.com/mvk24/AGRI-TECH/assets/127925161/1a8ceaa8-aa6d-4fb9-81ab-5a1a62679852)
+
+
 Note: It contains only Front End part as the backend is in progress.
 
 # Installation Guide:
 
-
-
-
-
-
-
-
-
-
 <br/>
 
 Download and Install req
-![10](https://github.com/mvk24/AGRI-TECH/assets/127925161/1a8ceaa8-aa6d-4fb9-81ab-5a1a62679852)
+
 ired packages.
 
 

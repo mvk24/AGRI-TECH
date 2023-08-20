@@ -27,6 +27,7 @@ const Auth = ({ show, handleClose, isSignUp }) => {
               placeholder="Enter email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
+              required
             />
           </Form.Group>
           <Form.Group className="auth-form-group" controlId="password">
@@ -37,6 +38,7 @@ const Auth = ({ show, handleClose, isSignUp }) => {
               placeholder="Password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
+              required
             />
           </Form.Group>
           {/* Add Confirm Password field for SignUp */}
@@ -49,6 +51,7 @@ const Auth = ({ show, handleClose, isSignUp }) => {
                 placeholder="Confirm Password"
                 value={confirmPassword}
                 onChange={(e) => setConfirmPassword(e.target.value)}
+                required
               />
             </Form.Group>
           )}

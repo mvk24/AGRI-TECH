@@ -38,7 +38,8 @@ https://github.com/mvk24/AGRI-TECH/assets/127925161/1e54d2b5-86ba-4247-9231-c53e
 
 ![8](https://github.com/mvk24/AGRI-TECH/assets/127925161/a081d3c8-c49c-4c0e-9e78-666cb77b6b6d)
 
-![10](https://github.com/mvk24/AGRI-TECH/assets/127925161/1a8ceaa8-aa6d-4fb9-81ab-5a1a62679852)
+![10](https://github.com/mvk24/AGRI-TECH/assets/127925161/1eebfad6-cdf7-413d-963a-94c40305600b)
+
 
 
 Note: It contains only Front End part as the backend is in progress.

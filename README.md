@@ -14,6 +14,13 @@ Future Enhancements:  &nbsp; &nbsp; Fertlizer Recommendation
 
 <br/>
 
+
+# Demo Video
+
+https://github.com/mvk24/AGRI-TECH/assets/127925161/1e54d2b5-86ba-4247-9231-c53e16e178e5
+
+<br/>
+
 # UI Snapshots
 ![1](https://github.com/mvk24/AGRI-TECH/assets/127925161/73bd1e03-e1d5-48ca-b6bb-6fffb82899c7)
 

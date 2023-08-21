@@ -5,10 +5,10 @@ Developed as a part of an academic assignement.
 
 This application is designed to provide tailored crop recommendations for different regions, optimizing results by considering six essential soil qualities.
 
-# Front End: React, Bootstrap <br/>
+# Front End: React JS, Bootstrap 5 <br/>
 # Back End: Flask, Machine Learning, Python
 
-Future Enhancements:  &nbsp; &nbsp; Fertlizer Recommendation
+Future Enhancements: <br/> &nbsp; &nbsp; &nbsp; &nbsp; Introducing an innovative solution at the intersection of agriculture, healthcare, and technology: Our integrated platform employs AI-driven early disease detection, precise fertilizer recommendations, and IoT sensor integration for enhanced prediction accuracy, while also offering a mobile application ensuring accessibility for all.
 
 
 
